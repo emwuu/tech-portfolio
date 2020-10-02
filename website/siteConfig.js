@@ -67,9 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'emily-wu-302944b4',
-        twitter: '',
-        github: '',
+        linkedin: 'emily-wu-302944b4'
     },
 
     // You may provide arbitrary config keys to be used as needed by your
